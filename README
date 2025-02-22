@@ -1,5 +1,5 @@
 KVP store that supports 
-    1. HTTP CRUD routes.
-    2. Deletion Cron Job
-    3. Multi Shart Architecture
-    4. WAL file to restore and backup
+    1. Multi Shard Architecture
+    2. WAL file to restore and backup
+    3. HTTP CRUD routes
+    4. Deletion Cron Job
